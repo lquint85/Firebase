@@ -3,21 +3,23 @@ body {
     background-size: cover;
 }
 header {
-    background: blue;
+    background: grey;
     color: white;
     text-align: center;
     opacity: .6;
 }
 #mytable {
     margin-top: 200px;
-    margin-left: 400px;
+    margin-left: 280px;
     color: white;
 }
 
 footer {
-    background: blue;
+    height:100px;
+    background: grey;
     color: white;
     text-align: center;
     opacity: .6;
-    margin-top: 400px;
+    margin-top: 200px;
+    padding: 25px;
 }
